@@ -1,4 +1,4 @@
-## Hey! Bem Vindo!
+## Bem Vindo!
 
 <div> 
   
