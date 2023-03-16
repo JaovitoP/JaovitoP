@@ -8,6 +8,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+## Detalhes
+- :office: Cursando Desenvolvimento de Software Multiplataforma - FATEC
+- :computer: Me aprofundando em HTML5 e CSS
+
+
 <div> 
   
  ![Snake animation](https://github.com/JaovitoP/JaovitoP/blob/output/github-contribution-grid-snake.svg)
