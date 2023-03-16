@@ -10,8 +10,7 @@
 
 ## Detalhes
 - :office: Cursando Desenvolvimento de Software Multiplataforma - FATEC
-- :computer: Me aprofundando em HTML5 e CSS
-
+- :computer: Me aprofundando em HTML5 e CSS3
 
 <div> 
   
