@@ -12,7 +12,6 @@
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## Detalhes
-- :office: Cursando Desenvolvimento de Software Multiplataforma - FATEC
 - :books: Me aprofundando em HTML5 e CSS3
 
 <div> 
