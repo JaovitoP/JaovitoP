@@ -12,7 +12,8 @@
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## Detalhes
-- :books: Me aprofundando em HTML e CSS
+- 💻 Cursando Desenvolvimento de Software Multiplataforma na Fatec
+- 📚 Me aprofundando em HTML e CSS
 <div> 
   
  ![Snake animation](https://github.com/JaovitoP/JaovitoP/blob/output/github-contribution-grid-snake.svg)
