@@ -13,7 +13,6 @@
 
 ## Detalhes
 - 💻 Cursando Desenvolvimento de Software Multiplataforma na Fatec
-- 📚 Me aprofundando em HTML e CSS
 <div> 
   
  ![Snake animation](https://github.com/JaovitoP/JaovitoP/blob/output/github-contribution-grid-snake.svg)
