@@ -1,7 +1,7 @@
 <h1 align="center"> Bem-Vindo(a)! ☕ </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaovitoP&theme=radical&show_icons=true)
-<img align="right" alt="photo" height="190" style="border-radius:50px;" src="https://user-images.githubusercontent.com/115598741/225734839-fe1523b8-cbac-4b6e-8f7b-f342e2163317.png">
+<img align="right" alt="photo" height="190" style="border-radius:50px;" src="https://github.com/JaovitoP/JaovitoP/assets/115598741/e6f14bf5-897b-4ae1-a3ba-45a1f1b455d6.png">
 
 ## Skills
 
